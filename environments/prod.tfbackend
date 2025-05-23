@@ -1,0 +1,5 @@
+resource_group_name  = "rg-state-aabb-b7b730"
+storage_account_name = "ststateaabbb7b730"
+container_name       = "tfstate"
+key                  = "prod.tfstate"
+use_azuread_auth     = true
